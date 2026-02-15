@@ -50,8 +50,8 @@ This project focuses on identifying the most effective marketing channel and rea
 3. Open .pbix file for visuals and business insights
 
 # Snapshots
-<img width="668" height="404" alt="Pic 5" src="https://github.com/user-attachments/assets/bdbddc06-9cc4-4e02-a231-5aa85223a343" />
-<img width="671" height="401" alt="Pic 4" src="https://github.com/user-attachments/assets/eca5305c-8988-45c7-9cfb-c18e52ae95a4" />
-<img width="670" height="400" alt="Pic 3" src="https://github.com/user-attachments/assets/10521bdf-ce9b-43ca-94d3-36dc472a021e" />
-<img width="674" height="401" alt="Pic 2" src="https://github.com/user-attachments/assets/690cdc9e-ba24-4a0a-b9b8-f1cf430b8c5f" />
-<img width="694" height="403" alt="Pic 1" src="https://github.com/user-attachments/assets/e32003e7-2293-4d08-bd53-2ce86620a37c" />
+<img width="668" height="404" alt="Pic 5" src="https://github.com/user-attachments/assets/8d7af735-7a69-4bd0-96c8-195cd35f8105" />
+<img width="671" height="401" alt="Pic 4" src="https://github.com/user-attachments/assets/051f6125-6cf1-40d3-ba96-b4a8a0ec1a5b" />
+<img width="670" height="400" alt="Pic 3" src="https://github.com/user-attachments/assets/0aa0d93b-e3b9-44b3-98fe-c7836fbcc8dd" />
+<img width="674" height="401" alt="Pic 2" src="https://github.com/user-attachments/assets/97832b55-6be2-43bd-ae5a-dbfe74f053b0" />
+<img width="694" height="403" alt="Pic 1" src="https://github.com/user-attachments/assets/0aec2c21-9d06-42da-a008-f8df0d37ba8c" />
